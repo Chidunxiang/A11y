@@ -1,0 +1,100 @@
+Title,Repository,URL,Created Date,Labels,State,Comments Count
+Create feature wishlist,A11yMapr/docs,https://github.com/A11yMapr/docs/issues/3,2025-05-05,"a11y, documentation, good first issue, help wanted, Accessibility",open,0
+Draft project mission & scope,A11yMapr/docs,https://github.com/A11yMapr/docs/issues/2,2025-05-05,"a11y, documentation, good first issue, help wanted, Accessibility",open,0
+Write Code of Conduct,A11yMapr/docs,https://github.com/A11yMapr/docs/issues/1,2025-05-05,"a11y, documentation, good first issue, help wanted, Accessibility",open,0
+MenuToggle - add aria-haspopup prop,patternfly/patternfly-react,https://github.com/patternfly/patternfly-react/issues/11792,2025-04-29,"Good first issue, A11y, PF Team",open,0
+[Spinner] - hardcoded aria-label attribute,patternfly/patternfly-react,https://github.com/patternfly/patternfly-react/issues/11750,2025-04-09,"Good first issue, A11y",open,5
+Improve a11y csv import,digitalfabrik/entitlementcard,https://github.com/digitalfabrik/entitlementcard/issues/2010,2025-03-24,"Task, good first issue, web, a11y",open,0
+Add aria-label for input field,digitalfabrik/entitlementcard,https://github.com/digitalfabrik/entitlementcard/issues/2005,2025-03-24,"Task, good first issue, a11y",open,0
+[a11y] The aria attributes on the TI program application is incorrect,civiform/civiform,https://github.com/civiform/civiform/issues/9763,2025-02-19,"bug, good first issue, a11y, [Epic] North Star Applicant UI, triaged",open,0
+Accessibility: text-transform affects the accessible name,fortanix/baklava,https://github.com/fortanix/baklava/issues/152,2025-02-18,"good first issue, a11y",open,0
+[ic-page-header] bugfix slotted heading aria label,mi6/ic-ui-kit,https://github.com/mi6/ic-ui-kit/issues/3120,2025-01-30,"good first issue, a11y",open,0
+[Grida Canvas] Better surface handle a11y - increase pointer event region,gridaco/grida,https://github.com/gridaco/grida/issues/226,2025-01-10,"enhancement, good first issue, canvas, a11y",open,0
+[Grida Canvas] Tab / Shift + Tab A11y - Select next/prev sibling,gridaco/grida,https://github.com/gridaco/grida/issues/224,2025-01-10,"good first issue, a11y, hotkeys",open,0
+Skeleton - at least one skeleton per example should include screen reader text,patternfly/patternfly,https://github.com/patternfly/patternfly/issues/7290,2025-01-09,"Good first issue, A11y, PF Team",open,1
+List - examples should use unique aria labeling,patternfly/patternfly-react,https://github.com/patternfly/patternfly-react/issues/11396,2025-01-09,"Good first issue, A11y, PF Team",open,1
+List - examples should have unique aria labeling,patternfly/patternfly,https://github.com/patternfly/patternfly/issues/7287,2025-01-09,"Good first issue, A11y, PF Team",open,1
+JumpLinks - aria attributes need correction,patternfly/patternfly,https://github.com/patternfly/patternfly/issues/7286,2025-01-09,"Good first issue, A11y, PF Team",open,1
+Title - examples should use heading elements,patternfly/patternfly,https://github.com/patternfly/patternfly/issues/7284,2025-01-09,"Good first issue, A11y, PF Team",open,1
+Hint - kebab toggles should have unique accessible name in examples,patternfly/patternfly,https://github.com/patternfly/patternfly/issues/7283,2025-01-09,"Good first issue, A11y, PF Team",open,1
+ExpandableSection - toggle text should be more descriptive,patternfly/patternfly,https://github.com/patternfly/patternfly/issues/7281,2025-01-09,"Good first issue, A11y, PF Team",open,1
+ExpandableSection - examples missing aria attributes,patternfly/patternfly,https://github.com/patternfly/patternfly/issues/7280,2025-01-09,"Good first issue, A11y, PF Team",open,1
+EmptyState - titles using incorrect heading level in examples,patternfly/patternfly,https://github.com/patternfly/patternfly/issues/7278,2025-01-08,"Good first issue, A11y, PF Team",open,1
+DescriptionList - lists should have unique aria-labels,patternfly/patternfly,https://github.com/patternfly/patternfly/issues/7277,2025-01-08,"Good first issue, A11y, PF Team",open,1
+DataList - invalid/incorrect aria attributes in examples,patternfly/patternfly,https://github.com/patternfly/patternfly/issues/7274,2025-01-08,"Good first issue, A11y, PF Team",open,1
+Codeblock - aria-label of copy button should be unique,patternfly/patternfly,https://github.com/patternfly/patternfly/issues/7272,2025-01-08,"Good first issue, A11y, PF Team",open,1
+Bug - Multiple components - content cannot be focused via keyboard,patternfly/patternfly,https://github.com/patternfly/patternfly/issues/7270,2025-01-08,"Good first issue, A11y, PF Team",open,1
+Audit usage of header elements in Learner Dashboard,openedx/frontend-app-learner-dashboard,https://github.com/openedx/frontend-app-learner-dashboard/issues/531,2024-12-13,"good first issue, a11y",open,2
+Screenreader-Output Input-/Textarea-Counter optimieren,public-ui/kolibri,https://github.com/public-ui/kolibri/issues/7162,2024-12-06,"good first issue, v2, v3, a11y, need:test",open,5
+"🐞 Bug: breadcrumb > active page is missing attribute aria-current=""page""",public-ui/kolibri,https://github.com/public-ui/kolibri/issues/7159,2024-12-06,"good first issue, v2, v3, Breadcrumb, sample, a11y, need:test",open,5
+"""Images must have alt text"" on element template icon",camunda/camunda-modeler,https://github.com/camunda/camunda-modeler/issues/4720,2024-11-22,"bug, ready, good first issue, a11y, spring cleaning",open,0
+Learner Dashboard has a broken skip link,openedx/frontend-app-learner-dashboard,https://github.com/openedx/frontend-app-learner-dashboard/issues/510,2024-11-21,"bug, good first issue, help wanted, a11y",open,5
+Disable password manager autocomplete on suggest edits,datenanfragen/website,https://github.com/datenanfragen/website/issues/1167,2024-11-06,"help wanted, good first issue, security, optimization, a11y",open,0
+Markup has two header landmark elements,civiform/civiform,https://github.com/civiform/civiform/issues/8672,2024-09-19,"bug, good first issue, a11y, triaged",open,0
+Buchungskalender für farbenblinde Menschen schlecht lesbar ,wielebenwir/commonsbooking,https://github.com/wielebenwir/commonsbooking/issues/1622,2024-08-11,"enhancement, good first issue, a11y",open,0
+Accessibility violation on the problems panel,camunda/camunda-modeler,https://github.com/camunda/camunda-modeler/issues/4446,2024-08-05,"bug, backlog, good first issue, a11y",open,1
+Open in new window / tab icon on link doesn't turn purple when visited in Safari,mi6/ic-ui-kit,https://github.com/mi6/ic-ui-kit/issues/2197,2024-07-19,"good first issue, a11y, link component, safari",open,2
+Inconsistent number formatting for big numbers. ,therungg/therun-frontend,https://github.com/therungg/therun-frontend/issues/257,2024-06-17,"enhancement, help wanted, good first issue, a11y",open,2
+Consistent and semantic route headers,HC-IPPM/safe-inputs,https://github.com/HC-IPPM/safe-inputs/issues/160,2024-06-06,"good first issue, frontend (/ui), a11y",open,0
+Add Keyboard-Only Controls for Card Selection and Game Actions,Cockatrice/Cockatrice,https://github.com/Cockatrice/Cockatrice/issues/5043,2024-06-05,"App - Cockatrice, Good first issue, Hacktoberfest, Help Wanted, Medium Priority, a11y",open,2
+Update all mentions of WCAG 2.1 to 2.2,mi6/ic-design-system,https://github.com/mi6/ic-design-system/issues/903,2024-04-10,"good first issue, a11y",open,0
+Page - update examples to provide aria-label/labelledby to page sections,patternfly/patternfly,https://github.com/patternfly/patternfly/issues/6431,2024-03-18,"Good first issue, A11y",open,1
+[Bug]: Login tests need to  be refactored to not use act,gbowne1/reactsocialnetwork,https://github.com/gbowne1/reactsocialnetwork/issues/359,2024-02-22,"bug, enhancement, help wanted, good first issue, css, a11y, frontend, backend, medium-priority, medium-complexity, feature, devops",open,3
+[feature]:  Add error Handling to the API fetch for Login.jsx,gbowne1/reactsocialnetwork,https://github.com/gbowne1/reactsocialnetwork/issues/358,2024-02-21,"bug, enhancement, help wanted, good first issue, css, a11y, frontend, backend, design, medium-priority, medium-complexity, feature, devops",open,2
+Support roving tabindex,diplodoc-platform/tabs-extension,https://github.com/diplodoc-platform/tabs-extension/issues/26,2024-02-12,"enhancement, good first issue, a11y",open,0
+Keyboard shortcuts unavalible in non-QWERTY layout,camunda/camunda-modeler,https://github.com/camunda/camunda-modeler/issues/4080,2024-01-26,"bug, backlog, pr welcome, good first issue, a11y, spring cleaning",open,11
+`OUTLINED_WHITE_WITH_ICON` button still shows hover effect even when disabled,civiform/civiform,https://github.com/civiform/civiform/issues/6446,2024-01-23,"bug, good first issue, a11y, triaged",open,0
+Small enhancement: Remove selected tag when clicked,sbsev/site,https://github.com/sbsev/site/issues/123,2023-11-10,"enhancement, good first issue, help wanted, a11y, suggestion",open,0
+disabled interactive widgets should indicate disabled state with cursor change,openedx/paragon,https://github.com/openedx/paragon/issues/2790,2023-11-08,"a11y, good first issue",open,0
+Use of outline:none leave no focus state styling in Windows +Edge with High Contrast Mode on.,openedx/paragon,https://github.com/openedx/paragon/issues/2789,2023-11-08,"a11y, good first issue",open,0
+Research tools to enforce a11y,digitalfabrik/integreat-app,https://github.com/digitalfabrik/integreat-app/issues/2536,2023-10-25,"good first issue, ready, Web, Task, Research, Native, not-testable, A11y",open,1
+documentation and examples on accessible routing patterns,nuxt/nuxt,https://github.com/nuxt/nuxt/issues/23375,2023-09-23,"documentation, good first issue, a11y",open,5
+"On the homepage ""Show x total” isn’t highlighted by the tab key navigation",getodk/central,https://github.com/getodk/central/issues/472,2023-08-30,"bug, help wanted, good first issue, frontend, a11y",open,0
+Use <search> tags,datenanfragen/website,https://github.com/datenanfragen/website/issues/1092,2023-08-13,"good first issue, cleanup, UI/UX, a11y",open,0
+IGAPP-1237: Easteregg image should not be focusable with the keyboard,digitalfabrik/integreat-app,https://github.com/digitalfabrik/integreat-app/issues/2170,2023-08-12,"good first issue, ready, Task, Native, A11y",open,3
+"Select examples should have aria-selected=""false"" for non-selected items",patternfly/patternfly,https://github.com/patternfly/patternfly/issues/5799,2023-08-03,"Good first issue, A11y",open,6
+Add/review examples using aria-label and aria-selected on Tabs,patternfly/patternfly,https://github.com/patternfly/patternfly/issues/5795,2023-08-03,"Good first issue, A11y",open,1
+toggle sidebar button unclickable due to OS taskbar behaviour,kubernetes-sigs/headlamp,https://github.com/kubernetes-sigs/headlamp/issues/1287,2023-08-02,"kind/bug, good first issue, frontend, a11y, windows",open,3
+Minor accessibility issues: lack of text labels and required roles,diplodoc-platform/cli,https://github.com/diplodoc-platform/cli/issues/479,2023-07-06,"enhancement, good first issue, help wanted, a11y",open,0
+"[Bug][a11y]: Table selected row state without ""selects"" specified lacks sufficient contrast",adobe/spectrum-web-components,https://github.com/adobe/spectrum-web-components/issues/3399,2023-06-29,"bug, good first issue, Component: Table, a11y, Spectrum, hacktoberfest, jira ticket created",open,2
+[Bug][a11y]: Tray component lacks visually hidden dismiss button to close the overlay on mobile,adobe/spectrum-web-components,https://github.com/adobe/spectrum-web-components/issues/3382,2023-06-28,"bug, help wanted, good first issue, a11y, Documentation, Component: Tray, hacktoberfest, jira ticket created",open,4
+Make Modals accessible again,saving-satoshi/saving-satoshi,https://github.com/saving-satoshi/saving-satoshi/issues/418,2023-04-27,"enhancement, good first issue, a11y",open,4
+Add :focus-visible pseudo selectors,lsst-epo/epo-react-lib,https://github.com/lsst-epo/epo-react-lib/issues/74,2023-04-14,"good first issue, a11y, chore",open,0
+Announce the state (expanded/collapsed) of the properties panel and it's sections,bpmn-io/properties-panel,https://github.com/bpmn-io/properties-panel/issues/208,2023-01-15,"enhancement, good first issue, backlog, a11y, spring cleaning, pr welcome",open,1
+Improve the semantics of the properties panel header,bpmn-io/properties-panel,https://github.com/bpmn-io/properties-panel/issues/207,2023-01-15,"enhancement, good first issue, backlog, a11y, spring cleaning, pr welcome",open,1
+Headings are not structured,Informasjonsforvaltning/fdk-issue-tracker,https://github.com/Informasjonsforvaltning/fdk-issue-tracker/issues/681,2023-01-12,"bug, frontend, good first issue, a11y, wcag, ABP",open,1
+⚡ Feature | Improve A11Y of IconButton,aura-ui/aura-ui,https://github.com/aura-ui/aura-ui/issues/43,2022-12-11,"enhancement, good first issue, a11y, packages: icon button",open,0
+Only use relative font sizes,datenanfragen/website,https://github.com/datenanfragen/website/issues/905,2022-06-21,"good first issue, a11y, refactoring",open,0
+Change question/answer divs to label and input on application review page,civiform/civiform,https://github.com/civiform/civiform/issues/2623,2022-06-02,"bug, good first issue, a11y, triaged",open,2
+"annotate abbreviations and SecureDrop jargon (WCAG 3.1.3, 3.1.4)",freedomofpress/securedrop,https://github.com/freedomofpress/securedrop/issues/6405,2022-04-18,"good first issue, a11y, hackathon",open,3
+A11Y - Broken ARIA menu on Chapters and Closed Captions (Web Accessibility),videojs/video.js,https://github.com/videojs/video.js/issues/7688,2022-03-22,"a11y, good first issue",open,2
+"Translate `alt` texts in ""verein"" page",datenanfragen/website,https://github.com/datenanfragen/website/issues/866,2022-03-15,"good first issue, cleanup, a11y, i18n",open,2
+"""What is the system number?"" Details component",UKHomeOffice/lev,https://github.com/UKHomeOffice/lev/issues/31,2021-09-01,"good first issue, UI, a11y",open,0
+[Accessibility] NVDA not reading column header sorting dropdown button properly,angular-ui/ui-grid,https://github.com/angular-ui/ui-grid/issues/7152,2021-06-29,"grid-core, a11y, good first issue",open,0
+[Accessibility] Tab focus order and screen reader text for column headers,angular-ui/ui-grid,https://github.com/angular-ui/ui-grid/issues/7147,2021-06-03,"grid-selection, a11y, good first issue",open,11
+grid-pro: inline edit fields lack an accessible name,vaadin/web-components,https://github.com/vaadin/web-components/issues/169,2021-03-17,"good first issue, a11y, vaadin-grid, a11y phase 3",open,2
+rich-text-editor: lack of role to describe purpose and interaction,vaadin/web-components,https://github.com/vaadin/web-components/issues/159,2021-03-17,"good first issue, a11y, a11y phase 3",open,0
+progress-bar: animation cannot be stopped,vaadin/web-components,https://github.com/vaadin/web-components/issues/134,2021-03-17,"good first issue, a11y, vaadin-progress-bar",open,1
+app-layout: modal drawer can't be closed with the keyboard,vaadin/web-components,https://github.com/vaadin/web-components/issues/123,2021-03-17,"enhancement, good first issue, a11y, a11y phase 3",open,2
+grid: selected rows only indicated using colour,vaadin/web-components,https://github.com/vaadin/web-components/issues/107,2021-03-17,"enhancement, good first issue, a11y, needs design, a11y phase 3",open,4
+Edit on focus doesn't work when horizontal scroll bar moved,angular-ui/ui-grid,https://github.com/angular-ui/ui-grid/issues/7134,2020-11-25,"grid-edit, a11y, good first issue",open,7
+Fix accessibility issues.,joneskj55/bioSite,https://github.com/joneskj55/bioSite/issues/1,2020-11-24,"enhancement, good first issue, a11y",open,0
+Syntax highlighting contrast,datenanfragen/website,https://github.com/datenanfragen/website/issues/491,2020-11-07,"help wanted, good first issue, a11y, hacktoberfest",open,7
+Tap targets are not sized appropriately,MLTSHP/mltshp-patterns,https://github.com/MLTSHP/mltshp-patterns/issues/256,2020-10-10,"good first issue, a11y",open,0
+Accessibility Review,MLTSHP/mltshp-patterns,https://github.com/MLTSHP/mltshp-patterns/issues/225,2020-09-21,"good first issue, help wanted, a11y",open,0
+Add some example CSS to illustrate some best practices on accessible styling,mefechoel/svelte-navigator,https://github.com/mefechoel/svelte-navigator/issues/11,2020-08-15,"documentation, good first issue, a11y",open,0
+Update grow inputs to be accessible,chef/automate,https://github.com/chef/automate/issues/4175,2020-08-03,"good first issue, a11y, ui, automate-ui",open,0
+Sponsor links on Agenda,dddwa/dddperth-website,https://github.com/dddwa/dddperth-website/issues/239,2020-02-05,"good first issue, a11y",open,0
+Reorganize structure?,tpage99/a11yfirst,https://github.com/tpage99/a11yfirst/issues/19,2019-10-20,"good first issue, hacktoberfest, a11y, discussion",open,3
+a11y resources for web developers,tpage99/a11yfirst,https://github.com/tpage99/a11yfirst/issues/15,2019-10-19,"good first issue, hacktoberfest, a11y",open,5
+Resources for individuals and families,tpage99/a11yfirst,https://github.com/tpage99/a11yfirst/issues/5,2019-10-18,"good first issue, hacktoberfest, a11y",open,1
+Link styling and color contrast ratio issues,hurricane-response/response-theme,https://github.com/hurricane-response/response-theme/issues/80,2019-09-16,"good first issue, a11y, GHC 2019 OSD",open,0
+Move text analyzer into proper window,Mudlet/Mudlet,https://github.com/Mudlet/Mudlet/issues/2933,2019-08-05,"enhancement, discussion, good first issue, a11y",open,2
+Color Scheme needs Work for Contrast,SgiobairOg/onesie-js,https://github.com/SgiobairOg/onesie-js/issues/2,2019-06-07,"good first issue, A11y",open,0
+Tabs accessibility,reactstrap/reactstrap,https://github.com/reactstrap/reactstrap/issues/1446,2019-03-26,"PR Welcome, a11y, BS compatibility, good first issue",open,3
+Show home directory as tilde (~) on MacOS and Linux,camunda/camunda-modeler,https://github.com/camunda/camunda-modeler/issues/1191,2019-02-11,"enhancement, platform:Darwin, platform:Linux, backlog, good first issue, a11y",open,0
+Invalid markup - Dashboard,cs-education/classTranscribe,https://github.com/cs-education/classTranscribe/issues/92,2019-01-26,"a11y, good first issue",open,1
+Focus the iframes when moving through shot creation flow,mozilla-services/screenshots,https://github.com/mozilla-services/screenshots/issues/4670,2018-07-18,"good first issue, firefox, a11y",open,2
+TabIndex in Menu,HomeServicesOfAmerica/styled-material-components,https://github.com/HomeServicesOfAmerica/styled-material-components/issues/284,2018-05-31,"bug, good first issue, a11y",open,0
+roomsetting to strip HTML colours (as bridged from IRC),element-hq/element-web,https://github.com/element-hq/element-web/issues/5424,2017-10-24,"S-Tolerable, Help Wanted, T-Enhancement, A11y, O-Uncommon, good first issue, Hacktoberfest",open,8
+ReSpec pill does not do A11Y stuff to announce opens / closes,speced/respec,https://github.com/speced/respec/issues/884,2016-07-20,"bug, a11y, good first issue",open,20
