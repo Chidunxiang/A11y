@@ -40,11 +40,11 @@ def search_github_issues(token=None):
             print(f"Response status code: {response.status_code}")
             
             if response.status_code == 403:
-                print("Error: Rate limit exceeded or authentication failed")
+                print("Error")
                 return
                 
             if response.status_code == 422:
-                print("Error: Invalid search query")
+                print("Error422")
                 return
                 
             response.raise_for_status()
@@ -65,7 +65,7 @@ def search_github_issues(token=None):
             continue
 
     if not all_issues:
-        print("\nNo issues found across all queries")
+        print("\nNo issues")
         return
 
     # Create CSV file
