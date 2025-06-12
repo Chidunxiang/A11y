@@ -1,0 +1,32 @@
+# Data files
+*.csv
+*.json
+*.jsonl
+
+# System files
+.DS_Store
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# Large files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+
+# Logs
+*.log 
